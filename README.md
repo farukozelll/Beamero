@@ -3,7 +3,9 @@
 Günümüzde insanlar için enerji tüketimi sosyal, ekonomik, politik açıdan derin etkilere sahiptir. Bu etkiler dünyamızda enerji tüketimini gün geçtikçe arttırmaktadır.  Artan ihtayaçla beraber hazırda bulunan yenilenemez enerji kaynaklarımızda hızla tükenmektedir.  Bu tüketim sebebiyle daha sürdürülebilir bir gezegen için yapabileceğiniz en iyi yatırımlardan biri yenilenebilir enerji üretmeye başlamaktadır.
  Dünyada Temiz enerji seçeneklerinden %70 lik pazara sahip olan Güneş Enerjisi, son 10 yılda güneş fotovoltaik (PV) kurulumları her yıl ortalama %50 artırdı.[1] Güneş panellerinin ve yenilenebilir enerjinin üreticiye getirebileceği pek çok avantaja rağmen, üretici kurmadan önce olası sorunlar veya olumsuzluklar konusunda endişelenmektir. Çünkü Güneş panelleri genellikle 100 dönümden büyük alanlara yerleştirildiğinden zamanla, hava koşullarına, sıcaklık değişimlerine, kirleticilere ve UV ışınlarına bağlı olarak zarar görebilmektedir. Üretici bu zararın etkisini çok geç gözlemlenmektedir. Bu durum üretici için zaman ve maliyet kaybına yol açmaktadır.
 Bizim hedefimiz yerli ve milli bir şekilde lisanslı veya lisanssız olması fark etmeksizin her türlü güneş enerjisi üreticilerine insan gücü kullanmadan Beamero ile arızayı, NOIR ve Termal görüntüleri işleyerek tespit edip üreticinin verimliliği en üst seviyeye çıkarmaktır.[2]
-  #  2.  Çözüm Ürettiği Sorun / İhtiyaç 
+ ![ww](https://user-images.githubusercontent.com/47918693/211150177-74116c99-5751-4d7c-857c-88fbca1b0f54.png)
+![eewe](https://user-images.githubusercontent.com/47918693/211150179-db90399e-a174-44f6-ab75-ba1b02c84c84.png)
+ #  2.  Çözüm Ürettiği Sorun / İhtiyaç 
 Son yıllarda kullanımı giderek artan güneş panellerinde ortaya çıkan bozulmalar, enerji üretim verimini %55 etkilemektedir.[3] Bozulmaların beş yaygın modeli bulunmaktadır.[4], 
 LID - Işık Kaynaklı Bozulma - Yılda %0,25 ila %0,7 arasında normal performans kaybı,
 PID - Potansiyel Kaynaklı Bozulma - Voltaj kaçağı nedeniyle potansiyel uzun süreli arıza, 
